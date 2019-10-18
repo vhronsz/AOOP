@@ -1,0 +1,24 @@
+
+public class Main {
+	
+	public void printSpecification(RaceCar car){
+		if(car.getEngineType() != null || car.getMaxVelocity() != 0){
+			System.out.println("Race Car Specification");
+		}
+	}
+	
+	public Main() {
+		// TODO Auto-generated constructor stub
+		Car car = new Car("Mitsubishi","Super",4);
+		RaceCar raceCar = new RaceCar("Volvo","Deluxe",4,"V8",280);
+		
+		printSpecification(raceCar);
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new Main();
+	}
+
+}

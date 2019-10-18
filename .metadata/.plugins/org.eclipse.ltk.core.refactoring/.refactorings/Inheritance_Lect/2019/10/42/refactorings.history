@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;SportCar.java&apos; to &apos;RaceCar.java&apos;&#x0D;&#x0A;- Original project: &apos;Inheritance_Lect&apos;&#x0D;&#x0A;- Original element: &apos;SportCar.java&apos;&#x0D;&#x0A;- Renamed element: &apos;RaceCar.java&apos;" description="Rename compilation unit &apos;SportCar.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{SportCar.java" name="RaceCar.java" references="false" stamp="1571367423021" version="1.0"/>
+</session>

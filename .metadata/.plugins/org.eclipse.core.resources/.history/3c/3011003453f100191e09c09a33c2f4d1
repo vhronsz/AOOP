@@ -1,0 +1,11 @@
+
+public class Car {
+	
+	private String Brand;
+	private int wheelCount;
+	
+	public Car() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

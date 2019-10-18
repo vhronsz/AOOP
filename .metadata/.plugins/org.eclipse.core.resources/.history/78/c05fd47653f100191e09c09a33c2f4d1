@@ -1,0 +1,18 @@
+
+public class RaceCar extends Car{
+	
+	private String engineType;
+	private float maxVelocity;
+	
+	
+	public RaceCar(String brand, String fuelType, int wheelCount,String engineType) {
+		super(brand, fuelType, wheelCount);
+		// TODO Auto-generated constructor stub
+	}
+
+
+	public RaceCar() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

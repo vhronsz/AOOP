@@ -1,0 +1,22 @@
+
+public class Main {
+	
+	public void printSpecification(Car car){
+		
+	}
+	
+	public Main() {
+		// TODO Auto-generated constructor stub
+		Car car = new Car("Mitsubishi","Super",4);
+		RaceCar raceCar = new RaceCar("Volvo","Deluxe",4,"V8",280);
+		
+		printSpecification(raceCar);
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new Main();
+	}
+
+}

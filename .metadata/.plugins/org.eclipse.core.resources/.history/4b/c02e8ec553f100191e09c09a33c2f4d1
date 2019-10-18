@@ -1,0 +1,19 @@
+
+public class Main {
+	
+	
+	
+	public Main() {
+		// TODO Auto-generated constructor stub
+		Car car = new Car("Mitsubishi".);
+		RaceCar raceCar = new RaceCar();
+		
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new Main();
+	}
+
+}

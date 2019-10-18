@@ -1,0 +1,14 @@
+
+public class Car {
+	
+	private String brand;
+	private String fuelType;
+
+	private int wheelCount;
+	
+	
+	public Car() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,11 @@
+
+public class RaceCar extends Car{
+	
+	private String engineType;
+	private float maxVelocity
+	
+	public RaceCar() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

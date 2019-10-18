@@ -1,0 +1,11 @@
+
+public class Car {
+	
+	private String Brand;
+	
+	
+	public Car() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
